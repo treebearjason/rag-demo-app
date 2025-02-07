@@ -4,7 +4,7 @@ import tempfile
 from config import DATA_DIR
 import os
 from doc_handler import DocumentHander
-from query_data import QueryService
+from query_service import QueryService
 
 
 
